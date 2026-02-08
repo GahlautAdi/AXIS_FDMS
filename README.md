@@ -1,4 +1,3 @@
-# AXIS_FDMS
 # AXIS FDMS – Banking Services Analysis Project
 
 ## 📌 Project Overview
